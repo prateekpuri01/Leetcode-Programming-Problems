@@ -1,4 +1,4 @@
-#H1 Leetcode Challenge Repository
+# Leetcode Challenge Repository
  
 This notebook contains my Python solutions to the 30-Day challenge put on by Leetcode during April 2020. I created this notebook to help organize my own solutions and also share them with others!
 
